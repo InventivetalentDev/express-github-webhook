@@ -10,6 +10,12 @@
     "email": "mail@inventivetalent.org",
     "url": "https://inventivetalent.dev"
   },
+  "homepage": "https://github.com/InventivetalentDev/express-github-webhook#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/InventivetalentDev/express-github-webhook"
+  },
+  "bugs": "https://github.com/InventivetalentDev/express-github-webhook/issues",
   "scripts": {
     "clean": "rm -rf dist",
     "compile": "tsc",
