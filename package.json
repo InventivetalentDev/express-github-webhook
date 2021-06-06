@@ -1,6 +1,6 @@
 {
   "name": "@inventivetalent/express-github-webhook",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Express middleware to validate GitHub webhooks",
   "license": "MIT",
   "main": "dist/index.js",
